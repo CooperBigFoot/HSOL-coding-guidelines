@@ -20,11 +20,9 @@ These documents are primarily intended for all employees at hydrosolutions who a
 
 This repository will contain guidelines covering various aspects of our development workflow. Planned and current documents include:
 
-* **`coding-philosophy.md`**: Our overarching principles and mindset towards coding.
 * **`python-best-practices.md`**: Specific guidelines for writing Python code, our primary language for analysis and development.
 * **`code-reviews-best-practices.md`**: How we conduct and participate in code reviews to ensure quality and share knowledge.
-* **`git-workflow.md`**: Our standard practices for using Git and GitHub for version control.
-* **`ai-assisted-development.md`**: Guidelines for effectively and responsibly using AI tools in our coding tasks.
+* **`copilot-instructions.md`**: Guidelines for effectively and responsibly using AI tools in our coding tasks.
 * *(Potentially others as we identify needs, e.g., `data-management-guidelines.md`, `project-structure.md`)*
 
 ## How to Use These Documents
