@@ -22,8 +22,7 @@ This repository will contain guidelines covering various aspects of our developm
 
 * **`python-best-practices.md`**: Specific guidelines for writing Python code, our primary language for analysis and development.
 * **`code-reviews-best-practices.md`**: How we conduct and participate in code reviews to ensure quality and share knowledge.
-* **`copilot-instructions.md`**: Guidelines for effectively and responsibly using AI tools in our coding tasks.
-* *(Potentially others as we identify needs, e.g., `data-management-guidelines.md`, `project-structure.md`)*
+* **`copilot-instructions.md`**: Guidelines for effectively and responsibly using AI
 
 ## How to Use These Documents
 

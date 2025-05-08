@@ -30,7 +30,6 @@ We adhere to **PEP 8**, the official style guide for Python code. We use **Ruff*
     # E/F (Pyflakes), W (pycodestyle), N (pep8-naming), I (isort),
     # UP (pyupgrade), B (flake8-bugbear), C4 (flake8-comprehensions), SIM (flake8-simplify)
     select = ["E", "F", "W", "N", "I", "UP", "B", "C4", "SIM"]
-    fix = true # Enable autofix for selected rules
     ```
 
 **How We Use Ruff:**
